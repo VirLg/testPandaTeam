@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[910],{910:function(e,t,o){o.r(t),o.d(t,{default:function(){return s}});var r=o(184);function s(e){var t=e.position;return console.log("position",t),(0,r.jsxs)("mesh",{position:t,castShadow:!0,children:[(0,r.jsx)("sphereGeometry",{args:[2,32]}),(0,r.jsx)("meshStandardMaterial",{color:65280})]})}}}]);
-//# sourceMappingURL=910.cd77c512.chunk.js.map

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/testPandaTeam/static/css/main.a007ba7d.css",
-    "main.js": "/testPandaTeam/static/js/main.0ce7b3b2.js",
-    "static/js/910.cd77c512.chunk.js": "/testPandaTeam/static/js/910.cd77c512.chunk.js",
-    "static/js/467.4eb72949.chunk.js": "/testPandaTeam/static/js/467.4eb72949.chunk.js",
+    "main.js": "/testPandaTeam/static/js/main.f6a109e2.js",
+    "static/js/910.344d6a3f.chunk.js": "/testPandaTeam/static/js/910.344d6a3f.chunk.js",
+    "static/js/467.c2ea79f2.chunk.js": "/testPandaTeam/static/js/467.c2ea79f2.chunk.js",
     "index.html": "/testPandaTeam/index.html",
     "main.a007ba7d.css.map": "/testPandaTeam/static/css/main.a007ba7d.css.map",
-    "main.0ce7b3b2.js.map": "/testPandaTeam/static/js/main.0ce7b3b2.js.map",
-    "910.cd77c512.chunk.js.map": "/testPandaTeam/static/js/910.cd77c512.chunk.js.map",
-    "467.4eb72949.chunk.js.map": "/testPandaTeam/static/js/467.4eb72949.chunk.js.map"
+    "main.f6a109e2.js.map": "/testPandaTeam/static/js/main.f6a109e2.js.map",
+    "910.344d6a3f.chunk.js.map": "/testPandaTeam/static/js/910.344d6a3f.chunk.js.map",
+    "467.c2ea79f2.chunk.js.map": "/testPandaTeam/static/js/467.c2ea79f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a007ba7d.css",
-    "static/js/main.0ce7b3b2.js"
+    "static/js/main.f6a109e2.js"
   ]
 }
