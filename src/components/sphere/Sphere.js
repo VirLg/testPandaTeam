@@ -4,7 +4,7 @@ export default function Sphere({ position }) {
     <mesh position={position} castShadow>
       <sphereGeometry args={[2, 32]} />
 
-      <meshStandardMaterial color={0x00ff00} />
+      <meshStandardMaterial color={0xd2f700} />
     </mesh>
   );
 }

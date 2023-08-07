@@ -7,7 +7,7 @@ export default function PlaneSphere() {
       groundColor="black"
     >
       <planeGeometry args={[20, 20]} />
-      <meshPhongMaterial color={'white'} attach="material" />
+      <meshPhongMaterial color={0x00b09b} attach="material" />
     </mesh>
   );
 }
