@@ -4,9 +4,7 @@ import { Canvas } from '@react-three/fiber';
 import { OrbitControls } from '@react-three/drei';
 import { Suspense, lazy } from 'react';
 import Loader from './loader/Loader';
-// import Scene from './scene/Scene';
-import { CircularProgress } from '@mui/material';
-// import './App.css';
+
 const Share = lazy(() => import('./sphere/Sphere'));
 const PlaneShare = lazy(() => import('./plane/PlaneSphere'));
 
