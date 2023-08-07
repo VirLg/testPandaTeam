@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.a007ba7d.css",
-    "main.js": "/react-homework-template/static/js/main.f5471aec.js",
-    "static/js/910.cd77c512.chunk.js": "/react-homework-template/static/js/910.cd77c512.chunk.js",
-    "static/js/467.4eb72949.chunk.js": "/react-homework-template/static/js/467.4eb72949.chunk.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.a007ba7d.css.map": "/react-homework-template/static/css/main.a007ba7d.css.map",
-    "main.f5471aec.js.map": "/react-homework-template/static/js/main.f5471aec.js.map",
-    "910.cd77c512.chunk.js.map": "/react-homework-template/static/js/910.cd77c512.chunk.js.map",
-    "467.4eb72949.chunk.js.map": "/react-homework-template/static/js/467.4eb72949.chunk.js.map"
+    "main.css": "/testPandaTeam/static/css/main.a007ba7d.css",
+    "main.js": "/testPandaTeam/static/js/main.0ce7b3b2.js",
+    "static/js/910.cd77c512.chunk.js": "/testPandaTeam/static/js/910.cd77c512.chunk.js",
+    "static/js/467.4eb72949.chunk.js": "/testPandaTeam/static/js/467.4eb72949.chunk.js",
+    "index.html": "/testPandaTeam/index.html",
+    "main.a007ba7d.css.map": "/testPandaTeam/static/css/main.a007ba7d.css.map",
+    "main.0ce7b3b2.js.map": "/testPandaTeam/static/js/main.0ce7b3b2.js.map",
+    "910.cd77c512.chunk.js.map": "/testPandaTeam/static/js/910.cd77c512.chunk.js.map",
+    "467.4eb72949.chunk.js.map": "/testPandaTeam/static/js/467.4eb72949.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a007ba7d.css",
-    "static/js/main.f5471aec.js"
+    "static/js/main.0ce7b3b2.js"
   ]
 }
